@@ -16,3 +16,11 @@ http://philipperemy.github.io/visualization/
 
 ## Variational Inference
 http://blog.evjang.com/2016/08/variational-bayes.html
+
+## Gaussian Process
+http://keyonvafa.com/gp-tutorial/
+http://keyonvafa.com/gp-predictit/
+http://keyonvafa.com/deep-gaussian-processes/
+
+## Statistical Machine Learning
+https://am207.github.io/2017/material.html
