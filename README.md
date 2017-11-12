@@ -9,3 +9,10 @@ http://colah.github.io/posts/2015-08-Understanding-LSTMs/
 
 ## Bayesian Deep Learning
 https://www.youtube.com/watch?v=FD8l2vPU5FY
+https://www.nature.com/articles/nature14541
+
+## Bayesian Optimization
+http://philipperemy.github.io/visualization/
+
+## Variational Inference
+http://blog.evjang.com/2016/08/variational-bayes.html
