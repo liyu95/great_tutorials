@@ -27,3 +27,6 @@ https://am207.github.io/2017/material.html
 
 ## Restricted Boltzman Machine
 https://deeplearning4j.org/restrictedboltzmannmachine
+
+## Uncertainty in Deep Learning
+http://www.cs.ox.ac.uk/people/yarin.gal/website/blog_2248.html#thesis
