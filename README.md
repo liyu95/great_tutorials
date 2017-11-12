@@ -24,3 +24,6 @@ http://keyonvafa.com/deep-gaussian-processes/
 
 ## Statistical Machine Learning
 https://am207.github.io/2017/material.html
+
+## Restricted Boltzman Machine
+https://deeplearning4j.org/restrictedboltzmannmachine
