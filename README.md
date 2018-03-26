@@ -7,6 +7,9 @@ http://kvfrans.com/variational-autoencoders-explained/
 ## RNN
 http://colah.github.io/posts/2015-08-Understanding-LSTMs/
 
+## GAN
+https://nips.cc/Conferences/2016/Schedule?showEvent=6202
+
 ## Bayesian Deep Learning
 https://www.youtube.com/watch?v=FD8l2vPU5FY
 https://www.nature.com/articles/nature14541
